@@ -17,10 +17,8 @@
   "keywords": [
     "react-native",
     "react native",
-    "cpu lock",
-    "wake lock",
-    "wakelock",
-    "wifi lock",
+    "battery",
+    "battery status",
     "android"
   ],
   "publishConfig": {
