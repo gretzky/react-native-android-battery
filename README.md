@@ -25,7 +25,7 @@ import React from "react";
 import {
   BatteryInterface,
   useBatteryStatus,
-} from "react-native-android-wake-lock";
+} from "react-native-android-battery";
 
 // the interface methods for event listening and getting the current battery state
 BatteryInterface.addEventListener(); // add your listener logic
